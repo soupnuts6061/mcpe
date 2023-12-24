@@ -1,7 +1,7 @@
 # ReMinecraftPE
 
 This project aims to create a custom Minecraft experience based on Minecraft: Pocket Edition as of 2011. It's
-based on Minecraft PE v0.1.3.
+based on Minecraft PE v0.1.3-2.
 
 **Its goals are:**
 * To add Quality-of-Life features to Minecraft: Pocket Edition, such as a brighter color gamut, an in-game
@@ -29,7 +29,7 @@ based on Minecraft PE v0.1.3.
   will be supported for as long as possible)
 * Modify the project structure
 
-Note: While the original Minecraft PE v0.1.3 may not work on newer devices, ReMinecraftPE works on all Android devices.
+Note: While the original Minecraft PE v0.1.3-2 may not work on newer devices, ReMinecraftPE works on all Android devices.
 
 ### This is the main modded version. For the original decompilation, see [ReMinecraftPE/mcped](https://github.com/ReMinecraftPE/mcped)
 
@@ -49,7 +49,7 @@ Want to help this project? [Here's a list of things left to do.](TODO.md)
 
 ## DISCLAIMER
 
-This project **requires** you to have a copy of the Minecraft PE v0.1.3 apk (sha256 of the `libminecraftpe.so`
+This project **requires** you to have a copy of the Minecraft PE v0.1.3-2 apk (sha256 of the `libminecraftpe.so`
 inside: `157af341d13a54cc935bbe24c5e1cf3d02d7e40ec20f9859b9853c2e996ebd81`), before you can build.
 
 ## Setup
